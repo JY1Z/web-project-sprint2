@@ -5,7 +5,6 @@
 ## Presentation Slides  
 - Prototype    
 - Front-End and Back-End progress    
-- Demo   
 - Sprint Ceremony Insights   
   - Daily Scrum    
   - Sprint Review    
