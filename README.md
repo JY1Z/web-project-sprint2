@@ -10,4 +10,4 @@
   - Sprint Review    
   - Sprint Retrospective   
 - Team Contributions  
-- Next sprint  
+- Next Sprint  
